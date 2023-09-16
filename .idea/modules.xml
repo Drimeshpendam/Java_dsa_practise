@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java_Basic_Programs/Java_Basic_Programs.iml" filepath="$PROJECT_DIR$/Java_Basic_Programs/Java_Basic_Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_DSA_Basic/Java_DSA_Basic.iml" filepath="$PROJECT_DIR$/Java_DSA_Basic/Java_DSA_Basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_DSA_FAANG/Java_DSA_FAANG.iml" filepath="$PROJECT_DIR$/Java_DSA_FAANG/Java_DSA_FAANG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_dsa_practise.iml" filepath="$PROJECT_DIR$/.idea/Java_dsa_practise.iml" />
+    </modules>
+  </component>
+</project>
